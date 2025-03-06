@@ -42,6 +42,20 @@ If I were to offer some actual helpful feedback:
 4. Consider Android support for wider market reach
 5. Add social proof or testimonials to build credibility
 
+## Alternative Design
+
+I've created an alternative landing page design to show how Futureland.tv could look with a more modern, user-friendly approach:
+
+[View Alternative Design](alternative-design.html)
+
+This alternative design includes:
+- A more vibrant color palette
+- Clear sections highlighting features and benefits
+- Testimonials for social proof
+- Mobile app screenshots
+- Cross-platform availability (iOS and Android)
+- A more approachable and friendly aesthetic
+
 ---
 
 *This repository is meant as light-hearted humor and not meant to offend. Futureland.tv might be a great product - this critique is based solely on first impressions of their landing page.*
